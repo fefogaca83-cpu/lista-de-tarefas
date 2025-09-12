@@ -1,6 +1,6 @@
 [build]
   command = "ng build --configuration production"
-  publish = "dist/lista-de-tarefas"
+  publish = "dist/lista-de-tarefas/browser"
 
 [context.production.environment]
   NODE_VERSION = "20"
