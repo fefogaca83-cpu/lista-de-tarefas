@@ -12,21 +12,6 @@ Permite adicionar, editar, marcar como concluído e excluir tarefas.
 - **Angular**  
 - **TypeScript**  
 
-## 📂 Estrutura do projeto
-to-do-list/
-│── src/
-│ ├── app/
-│ │ ├── components/ # Componentes da aplicação
-│ │ ├── services/ # Serviços de gerenciamento
-│ │ └── app.module.ts
-│ ├── assets/ # Ícones, imagens, etc.
-│ └── index.html
-│── angular.json
-│── package.json
-│── README.md
-
-
-
 ## 🎯 Funcionalidades
 - ➕ Adicionar tarefas  
 - ✏️ Editar tarefas  
